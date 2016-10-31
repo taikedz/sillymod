@@ -7,3 +7,7 @@ minetest.register_node("sillymod:sillyblock",{
 		footstep = "sillymod_step",
 	},
 })
+
+-- NEED TO DO
+-- Make him smile
+-- use different sound when being chopped
