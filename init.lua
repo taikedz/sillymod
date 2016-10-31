@@ -5,9 +5,9 @@ minetest.register_node("sillymod:sillyblock",{
 	groups = {choppy = 3},
 	sounds = {
 		footstep = "sillymod_step",
+		dug = "sillymod_wail",
 	},
 })
 
 -- NEED TO DO
 -- Make him smile
--- use different sound when being chopped
